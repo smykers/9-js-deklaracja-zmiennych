@@ -1,2 +1,2 @@
 let name = Jakub;
-let name = Smyk;
+let surnname = Smyk;
